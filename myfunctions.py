@@ -1,6 +1,3 @@
-# CV Assignment 2 - functions used frequently
-# Kzesniak Magdalena-Izabela 161044
-# cs161044@uniwa.gr
 
 # -------------------------
 # needed imports
